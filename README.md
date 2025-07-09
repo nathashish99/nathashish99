@@ -47,7 +47,7 @@ A CRUD-based system to manage student data.
 > MySQL
 
 ### 🎮 Guess-It: Number Guessing Game
-A console-based Java game for guessing numbers in limited attempts.
+A console-based Java game for guessing numbers in a limited attempts.
 > Core Java
 
 ---
@@ -55,14 +55,14 @@ A console-based Java game for guessing numbers in limited attempts.
 
 - 🏅 Certified in Web Applications & Database Management by **Skill India**
 - 💼 Internship experience from **Punjab Engineering College (PEC)**
-- 🛠️ Participated in NSS & organized college fests as part of the Finance Team
+- 🛠️ Participated in NSS & organised college fests as part of the Finance Team
 
 ---
 
 ## 🔗 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ashish-santosh-nath/)
-- 📧 [aashish@actualisation.ai](mailto:aashish@actualisation.ai)
+- 📧 [ashish@actualisation.ai](mailto:ashish@actualisation.ai)
 
 ---
 
